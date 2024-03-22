@@ -21,4 +21,8 @@ In format-3, we can successfully "halfen" the number of addtion by applying this
 
 # Wallace Adder tree
 
+
+
+
+# Reference
 Reference: https://zhuanlan.zhihu.com/p/127164011
