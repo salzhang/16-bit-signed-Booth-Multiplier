@@ -14,5 +14,8 @@ In format-3, we can successfully "halfen" the number of addtion by applying this
 
 ![image](https://github.com/salzhang/16-bit-signed-Booth-Multiplier/assets/157662799/60096494-f701-4692-8ab3-45a15aedbe95)  
 
+# Wallace Tree  
+![872496817483314438](https://github.com/salzhang/16-bit-signed-Booth-Multiplier/assets/157662799/882b761c-fc30-4c27-a713-9e70624d530e)
+
 # Reference
 Reference: https://zhuanlan.zhihu.com/p/127164011
