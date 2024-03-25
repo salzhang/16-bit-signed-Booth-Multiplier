@@ -13,3 +13,6 @@ Or format-3:
 In format-3, we can successfully "halfen" the number of addtion by applying this truth table:
 
 ![image](https://github.com/salzhang/16-bit-signed-Booth-Multiplier/assets/157662799/60096494-f701-4692-8ab3-45a15aedbe95)  
+
+# Reference
+Reference: https://zhuanlan.zhihu.com/p/127164011
